@@ -84,7 +84,7 @@ Classification-of-Poultry-Diseases/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Durgesh-Vaigandla/Classification-of-Poultry-Diseases.git
+   git clone https://github.com/Dharshini411/Classification-of-Poultry-Diseases.git
    cd Classification-of-Poultry-Diseases
    ```
 
